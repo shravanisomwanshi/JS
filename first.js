@@ -1,6 +1,6 @@
-// console.log(" Welcome to Apna college");
-// console.log("shraddha khapra");
-// console.log("javascript tutorials");
+console.log(" Welcome to Apna college");
+console.log("shraddha khapra");
+console.log("javascript tutorials");
 
 
 // fullName = "Tony Stark";
